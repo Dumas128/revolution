@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GANAEZ5AVPRLX7AKNRZ4BZ3JQETP2TH2YJKKN3IPPCSNRPX6SYPX4ZM6"
+"GAZS6CAEZIOQO2HQD6A7TF2E33WW2DEASX6KZDNM5L2E2J6357WKDAAI"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Fade Coin"
-ORG_URL="https://fadecoin.com/"
-ORG_DESCRIPTION="Fade is defined as the process of becoming less bright or disappearing graduall."
-ORG_TWITTER="@FadeCoin"
-ORG_LOGO="https://i.ibb.co/JpyhcF0/1.jpg"
-ORG_OFFICIAL_EMAIL="contact@fade.com"
+ORG_NAME="Revolution Token"
+ORG_URL="https://revolutiontoken.com/"
+ORG_DESCRIPTION="We are the Power.We are the Revolution."
+ORG_TWITTER="@RevolutionToken"
+ORG_LOGO="https://i.ibb.co/8MRSrSZ/scale-1200.jpg"
+ORG_OFFICIAL_EMAIL="contact@revolution.com"
 
 
 [[CURRENCIES]]
-code="Fade"
-issuer="GANAEZ5AVPRLX7AKNRZ4BZ3JQETP2TH2YJKKN3IPPCSNRPX6SYPX4ZM6"
+code="Revolution"
+issuer="GAZS6CAEZIOQO2HQD6A7TF2E33WW2DEASX6KZDNM5L2E2J6357WKDAAI"
 anchor_asset="false"
-name="Fade Coin"
-desc="Sympathy for the rebels, the government claims, is beginning to fade.Prospects for peace had already started to fade,fading memories of better days."
+name="Revolution Token"
+desc="The Revolution is coming for all cryptocurrencies and you can apply to our Greatest project because we are the Revolution. "
 conditions=""
-image="https://i.ibb.co/JpyhcF0/1.jpg"
+image="https://i.ibb.co/8MRSrSZ/scale-1200.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#Fade Coin was issued using the open and inclusive Stellar blockchain network.
+#Revolution Token was issued using the open and inclusive Stellar blockchain network.
